@@ -120,6 +120,8 @@ Empecé respondiendo preguntas de negocio con SQL y reportes. Con el tiempo ente
 
 | Estado | Certificación / Programa |
 |:---|:---|
+| ✅ Obtenida | **AZ-900** — Microsoft Certified: Azure Fundamentals |
+| ✅ Obtenida | **Databricks Fundamentals** — Databricks Academy |
 | 🔄 En curso | **DP-750** — Azure Databricks Data Engineer Associate |
 | 🔄 En curso | **Maestría en Ciencia de Datos** |
 | 🎯 Siguiente | Certificación cloud AWS — ruta de datos |
